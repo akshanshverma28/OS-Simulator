@@ -1,8 +1,8 @@
 # OS-Simulator
 
- To run this, you can simply copy this code or download it on any Linux device and run it.
 
-Concepts covered in operating systems courses are included in the simulator. The user can interact with it using a menu system on a console-based interface. Additionally, extra points were also earned for developing a simple GUI using a C++ library.
+
+
 
 Following features are included in the simulator:
 CPU scheduling:
